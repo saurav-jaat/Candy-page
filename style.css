@@ -1,0 +1,53 @@
+body{
+    background: #f5d9d5;
+    font-family: 'Nunito Sans', sans-serif;}
+#main-navbar{
+    color: white;
+    font-size: 1.5rem;
+    font-weight: 100;
+}
+
+#navbarbrand{
+    color:#EA1C2C ;
+}
+#main-navbar .nav-link:hover{
+    color:#EA1C2C ;
+    font-weight: 80;
+
+}
+
+#headingspan span{
+    color:#EA1C2C ;
+}
+#headingspan h1{
+    font-weight: 100;
+    font-size: 2.5rem;
+   
+}
+@media (max-width:1300px){
+    #headingspan h1{
+        font-size: 1.5rem;
+       
+    }  
+    #hello{
+    
+        font-size: 1rem;
+    }  
+}
+#hello{
+    
+    font-size: 1.5rem;
+}
+.heya h2{
+    color: #EA1C2C;
+    font-weight: 100
+    font-size: 1.5rem;
+}
+.heya p{
+    color: #f498b8;
+    line-height: 1.6;
+ 
+}
+.navbar.scrolled {
+    background: rgb(222, 192, 222);
+}
